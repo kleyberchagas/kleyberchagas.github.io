@@ -6,7 +6,7 @@ Profissional de Tecnologia da Informação com cerca de 20 anos de experiência 
 
 Tenho experiência com suporte presencial e remoto, diagnóstico e resolução de problemas, sistemas operacionais Windows e Linux, manutenção de computadores e notebooks, impressoras, redes, internet e sistemas empresariais.
 
-Atualmente, venho aprimorando meus conhecimentos em **Jira, Jira Service Management, Confluence, ITSM, Linux, SQL e fundamentos de QA**, buscando ampliar minha atuação profissional na área de Tecnologia da Informação.
+Atualmente, venho aprimorando meus conhecimentos em **Jira, Jira Service Management, Confluence e ITSM, buscando ampliar minha atuação profissional na área de Tecnologia da Informação.
 
 Meu objetivo é atuar em **Suporte Técnico / Analista de Suporte**, especialmente em oportunidades remotas, contribuindo com experiência prática, responsabilidade, atendimento ao usuário e resolução de problemas.
 
@@ -22,7 +22,7 @@ Meu objetivo é atuar em **Suporte Técnico / Analista de Suporte**, especialmen
 * Impressoras e periféricos
 * Redes e internet
 * Instalação e configuração de softwares
-* Sistemas empresariais
+* Sistemas empresariais (EPR)
 * Backup e recuperação de dados
 * Microsoft Office
 * Excel e elaboração de relatórios
@@ -99,6 +99,6 @@ Concluído em 2007
 
 ## 📞 Contato
 
-**LinkedIn:** [Meu perfil no LinkedIn](https://www.linkedin.com/)
+**LinkedIn:** [Meu perfil no LinkedIn](https://www.linkedin.com/in/kleybercm/)
 
 **GitHub:** [github.com/kleyberchagas](https://github.com/kleyberchagas)
