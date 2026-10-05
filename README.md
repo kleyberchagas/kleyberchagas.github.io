@@ -1,41 +1,38 @@
-# Kleyber Chagas de Matos
+# KLEYBER CHAGAS DE MATOS
 
-### Tecnologia da Informação | Suporte Técnico | Sistemas | Operações
+### SUPORTE TÉCNICO  |  SERVICE DESK  |  HELP DESK  | TECNOLOGIA DA INFORMAÇÃO
 
-Profissional de Tecnologia da Informação com cerca de 20 anos de experiência em suporte técnico, atendimento a usuários, manutenção de computadores, redes e sistemas.
+## 🎯 OBJETIVO PROFISSIONAL 
 
-Tenho experiência com suporte presencial e remoto, diagnóstico e resolução de problemas, sistemas operacionais Windows e Linux, manutenção de computadores e notebooks, impressoras, redes, internet e sistemas empresariais.
-
-Atualmente, venho aprimorando meus conhecimentos em **Jira, Jira Service Management, Confluence e ITSM, buscando ampliar minha atuação profissional na área de Tecnologia da Informação.
-
-Meu objetivo é atuar em **Suporte Técnico / Analista de Suporte**, especialmente em oportunidades remotas, contribuindo com experiência prática, responsabilidade, atendimento ao usuário e resolução de problemas.
+Atuar em Suporte Técnico, Help Desk ou Service Desk em regime remoto, aplicando minha experiência prática em atendimento a usuários e resolução de problemas na área de Tecnologia da Informação. 
 
 ---
 
-## 🛠️ Conhecimentos Técnicos
+## 👤 RESUMO PROFISSIONAL
 
-* Suporte técnico presencial e remoto
-* Atendimento e suporte a usuários
-* Windows 10 e Windows 11
-* Linux
-* Manutenção de computadores e notebooks
-* Impressoras e periféricos
-* Redes e internet
-* Instalação e configuração de softwares
-* Sistemas empresariais (EPR)
-* Backup e recuperação de dados
-* Microsoft Office
-* Excel e elaboração de relatórios
-* Jira Software
-* Jira Service Management
-* Confluence
-* ITSM
-* Scrum básico
-* SQL básico
+Profissional de Tecnologia da Informação, formado em Sistemas de Informação, com quase 20 anos de experiência prática em suporte técnico presencial e remoto, manutenção de computadores e notebooks, impressoras, redes, sistemas operacionais, softwares e sistemas empresariais. Experiência com instalação, configuração, manutenção e suporte a equipamentos de informática, redes e sistemas de automação comercial, além de atendimento e resolução de problemas de usuários e empresas. Atualmente, ampliando conhecimentos em Jira Software, Jira Service Management, Confluence, Scrum, SQL, LGPD e Inteligência Artificial. 
 
 ---
 
-## 💼 Experiência Profissional
+## 🛠️ COMPETÊNCIAS TÉCNICAS
+
+•	Suporte técnico presencial e remoto a usuários e empresas
+•	Diagnóstico e solução de problemas de hardware e software
+•	Windows 10/11 e versões anteriores: instalação, configuração e manutenção
+•	Linux: instalação de distribuições, programas, impressoras, compartilhamento e rede, atualizações e controle de acesso a pastas
+•	Experiência pontual com macOS e Chrome OS
+•	Manutenção de computadores, notebooks e impressoras
+•	Configuração e manutenção de redes e acesso à internet
+•	Suporte a sistemas e a sistemas de automação comercial
+•	Microsoft Office (Word, Excel e PowerPoint); elaboração de planilhas e relatórios
+•	Jira Software, Jira Service Management e Confluence – capacitação
+•	Scrum, SQL e LGPD – conhecimentos básicos
+•	Inteligência Artificial – Em andamento
+•	Preparatório Certificação CTFL (QA - Quality Assurance) – Em andamento
+
+---
+
+## 💼 EXPERIÊNCIA PROFISSIONAL
 
 ### Tecnologia da Informação e Suporte Técnico
 
@@ -54,7 +51,7 @@ Também possui experiência com atendimento ao cliente e acompanhamento de opera
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🎓 FORMAÇÃO ACADÊMICA
 
 ### Bacharelado em Sistemas de Informação
 
@@ -68,7 +65,7 @@ Concluído em 2007
 
 ---
 
-## 📚 Cursos e Capacitações
+## 📚 CURSOS E CERTIFICAÇÕES
 
 * **Jira Service Management — Tire o máximo proveito do Jira Service Management** — Atlassian (2026)
 * **Jira Software — Comece a usar o Jira rapidamente** — Atlassian (2026)
@@ -77,11 +74,10 @@ Concluído em 2007
 * **Construindo um Portal no Jira Service Management** — Udemy (2026)
 * **ITSM Foundation 5 e as Práticas de Gestão** — Udemy (2026)
 * **IT Service Management: Gestão de Serviços de TI (ITSM/GSTI)** — Udemy (2026)
-* **LGPD — Lei Geral de Proteção de Dados** — Curso de capacitação
-* **Introdução à Carreira de QA** — Udemy
-* **Linux** — Capacitação prática
-* **SQL Básico** — Em aperfeiçoamento
-
+* **LGPD — Lei Geral de Proteção de Dados** — SEST SENAT (2026)
+* **Formação Inteligência Artificial: Do Zero ao Avançado** – Udemy (em andamento)
+* **Preparatório para certificação de testes CTFL (ISTQB/BSTQB)** – Udemy (em andamento
+  
 ---
 
 ## 🔧 Áreas de Interesse
