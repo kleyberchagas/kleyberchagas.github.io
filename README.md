@@ -80,7 +80,7 @@ Concluído em 2007
   
 ---
 
-## 🔧 Áreas de Interesse
+## 🔧 ÁREAS DE INTERESSE
 
 * Suporte Técnico
 * Analista de Suporte N1
@@ -90,6 +90,11 @@ Concluído em 2007
 * Sistemas
 * Infraestrutura de TI
 * Qualidade de Software / QA
+
+---
+## 📌 INFORMAÇÕES ADICIONAIS
+
+* Disponibilidade imediata para trabalho remoto ou híbrido. Estrutura própria para home office (computador atualizado e internet de 600 Mb). Disposição para treinamento e aprendizado contínuo.
 
 ---
 
